@@ -1,0 +1,7 @@
+---
+applications:
+- name: FormationAngularSpring
+  memory: 1024M
+  host: formationangularspring
+  domain: cfapps.io
+  buildpack: java_buildpack
